@@ -1,0 +1,13 @@
+.denomination_item {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+button {
+  width: 150px;
+  height: 40px;
+  border-radius: 15px;
+  margin: 20px;
+  border-color: white;
+  font-size: 26px;
+}
